@@ -18,7 +18,7 @@ This project implements 6 machine learning algorithms* to classify different spe
 * Load and summarise the data with pandas
 * Visualise the dataset with box and whisker plots, histograms and a scatter plot matrix
 * Evaluate the algorithms through the different models' predictions on unseen data
-* Picking the most accurate model to make predictions on the validation dataset
+* Pick the most accurate model to make predictions on the validation dataset
 
 #### Thoughts:
 I enjoyed this tutorial, it is well structured and explains the reasoning for each step. 
